@@ -1,0 +1,12 @@
+* {
+    color: aquamarine;
+    background-color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+    height: auto;
+    width: 800px;
+    text-align: center;
+}
+img {
+    height:auto;
+    width: 500px;
+}
